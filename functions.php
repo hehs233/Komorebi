@@ -14,9 +14,6 @@ function themeConfig($form) {
     $liuyanben = new Typecho_Widget_Helper_Form_Element_Text('liuyanben', NULL, NULL, _t('留言本'), _t('填写相关地址，如：“trace.html”'));
     $form->addInput($liuyanben);
 	
-	$chuishui = new Typecho_Widget_Helper_Form_Element_Text('chuishui', NULL, NULL, _t('吹水'), _t('填写相关地址，如：“chuishui.html”'));
-    $form->addInput($chuishui);
-	
     $youlian = new Typecho_Widget_Helper_Form_Element_Text('youlian', NULL, NULL, _t('友链'), _t('填写相关地址，如：“links.html”'));
     $form->addInput($youlian);
 	
