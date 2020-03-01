@@ -3,7 +3,7 @@
  *  清爽的夏日，阳光明媚，树影姚曳，阳光穿过树叶间的间隙，在地上撒下点点星光
  *  感谢<a href="https://xiamuyourenzhang.cn/">夏目贵志</a>、<a href="https://blog.fueis.com/">当下</a>、<a href="https://kimtsu.com/">黑暗游侠</a>
  * 
- * @package Typecho Komorebi Theme 
+ * @package Komorebi
  * @author 肖同学
  * @version 1.2
  * @link https://xiaojunkang.com/
