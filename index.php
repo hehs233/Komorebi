@@ -1,6 +1,7 @@
 <?php
 /**
  *  清爽的夏日，阳光明媚，树影姚曳，阳光穿过树叶间的间隙，在地上撒下点点星光
+ *  感谢<a href="https://xiamuyourenzhang.cn/">夏目贵志</a>、<a href="https://blog.fueis.com/">当下</a>、<a href="https://kimtsu.com/">黑暗游侠</a>
  * 
  * @package Typecho Komorebi Theme 
  * @author 肖同学
@@ -72,8 +73,7 @@ if (!defined('__TYPECHO_ROOT_DIR__')) exit;
 
         <span>其他页面 ——
 
-        <a href="/<?php $this->options->chuishui() ?>" target="_blank">日常吹水</a> · 
-		<a href="/<?php $this->options->youlian() ?>" target="_blank">友链链接</a> 
+	<a href="/<?php $this->options->youlian() ?>" target="_blank">友链链接</a> 
 
         </span>
 
